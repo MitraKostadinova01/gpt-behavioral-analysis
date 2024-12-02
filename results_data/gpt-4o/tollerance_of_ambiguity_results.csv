@@ -1,0 +1,673 @@
+WorkPosition,Country,Question,Option
+Project Manager,Macedonia,Question 1,option c
+Project Manager,Macedonia,Question 2,option e
+Project Manager,Macedonia,Question 3,option f
+Project Manager,Macedonia,Question 4,option d
+Project Manager,Macedonia,Question 5,option g
+Project Manager,Macedonia,Question 6,option f
+Project Manager,Macedonia,Question 7,option d
+Project Manager,Macedonia,Question 8,option g
+Project Manager,Macedonia,Question 9,option e
+Project Manager,Macedonia,Question 10,option f
+Project Manager,Macedonia,Question 11,option g
+Project Manager,Macedonia,Question 12,option g
+Project Manager,Macedonia,Question 13,option f
+Project Manager,Macedonia,Question 14,option e
+Project Manager,Macedonia,Question 15,option f
+Project Manager,Macedonia,Question 16,option g
+Project Manager,Canada,Question 1,option c
+Project Manager,Canada,Question 2,option f
+Project Manager,Canada,Question 3,option e
+Project Manager,Canada,Question 4,option d
+Project Manager,Canada,Question 5,option f
+Project Manager,Canada,Question 6,option f
+Project Manager,Canada,Question 7,option e
+Project Manager,Canada,Question 8,option g
+Project Manager,Canada,Question 9,option d
+Project Manager,Canada,Question 10,option f
+Project Manager,Canada,Question 11,option e
+Project Manager,Canada,Question 12,option g
+Project Manager,Canada,Question 13,option f
+Project Manager,Canada,Question 14,option e
+Project Manager,Canada,Question 15,option c
+Project Manager,Canada,Question 16,option g
+Project Manager,Spain,Question 1,option c
+Project Manager,Spain,Question 2,option f
+Project Manager,Spain,Question 3,option e
+Project Manager,Spain,Question 4,option d
+Project Manager,Spain,Question 5,option f
+Project Manager,Spain,Question 6,option f
+Project Manager,Spain,Question 7,option e
+Project Manager,Spain,Question 8,option g
+Project Manager,Spain,Question 9,option e
+Project Manager,Spain,Question 10,option f
+Project Manager,Spain,Question 11,option e
+Project Manager,Spain,Question 12,option g
+Project Manager,Spain,Question 13,option f
+Project Manager,Spain,Question 14,option e
+Project Manager,Spain,Question 15,option d
+Project Manager,Spain,Question 16,option g
+Project Manager,Argentina,Question 1,option c
+Project Manager,Argentina,Question 2,option f
+Project Manager,Argentina,Question 3,option e
+Project Manager,Argentina,Question 4,option d
+Project Manager,Argentina,Question 5,option f
+Project Manager,Argentina,Question 6,option f
+Project Manager,Argentina,Question 7,option e
+Project Manager,Argentina,Question 8,option g
+Project Manager,Argentina,Question 9,option c
+Project Manager,Argentina,Question 10,option f
+Project Manager,Argentina,Question 11,option e
+Project Manager,Argentina,Question 12,option g
+Project Manager,Argentina,Question 13,option f
+Project Manager,Argentina,Question 14,option e
+Project Manager,Argentina,Question 15,option d
+Project Manager,Argentina,Question 16,option g
+Project Manager,Germany,Question 1,option c
+Project Manager,Germany,Question 2,option f
+Project Manager,Germany,Question 3,option e
+Project Manager,Germany,Question 4,option b
+Project Manager,Germany,Question 5,option g
+Project Manager,Germany,Question 6,option f
+Project Manager,Germany,Question 7,option d
+Project Manager,Germany,Question 8,option g
+Project Manager,Germany,Question 9,option e
+Project Manager,Germany,Question 10,option f
+Project Manager,Germany,Question 11,option g
+Project Manager,Germany,Question 12,option g
+Project Manager,Germany,Question 13,option f
+Project Manager,Germany,Question 14,option e
+Project Manager,Germany,Question 15,option d
+Project Manager,Germany,Question 16,option g
+Project Manager,Malta,Question 1,option c
+Project Manager,Malta,Question 2,option e
+Project Manager,Malta,Question 3,option e
+Project Manager,Malta,Question 4,option d
+Project Manager,Malta,Question 5,option f
+Project Manager,Malta,Question 6,option f
+Project Manager,Malta,Question 7,option e
+Project Manager,Malta,Question 8,option g
+Project Manager,Malta,Question 9,option f
+Project Manager,Malta,Question 10,option e
+Project Manager,Malta,Question 11,option g
+Project Manager,Malta,Question 12,option g
+Project Manager,Malta,Question 13,option f
+Project Manager,Malta,Question 14,option e
+Project Manager,Malta,Question 15,option f
+Project Manager,Malta,Question 16,option g
+Project Manager,United Kingdom,Question 1,option c
+Project Manager,United Kingdom,Question 2,option f
+Project Manager,United Kingdom,Question 3,option e
+Project Manager,United Kingdom,Question 4,option d
+Project Manager,United Kingdom,Question 5,option f
+Project Manager,United Kingdom,Question 6,option f
+Project Manager,United Kingdom,Question 7,option e
+Project Manager,United Kingdom,Question 8,option g
+Project Manager,United Kingdom,Question 9,option d
+Project Manager,United Kingdom,Question 10,option e
+Project Manager,United Kingdom,Question 11,option e
+Project Manager,United Kingdom,Question 12,option g
+Project Manager,United Kingdom,Question 13,option f
+Project Manager,United Kingdom,Question 14,option e
+Project Manager,United Kingdom,Question 15,option c
+Project Manager,United Kingdom,Question 16,option g
+Full Stack Software Engineer,Macedonia,Question 1,option c
+Full Stack Software Engineer,Macedonia,Question 2,option f
+Full Stack Software Engineer,Macedonia,Question 3,option e
+Full Stack Software Engineer,Macedonia,Question 4,option b
+Full Stack Software Engineer,Macedonia,Question 5,option f
+Full Stack Software Engineer,Macedonia,Question 6,option g
+Full Stack Software Engineer,Macedonia,Question 7,option d
+Full Stack Software Engineer,Macedonia,Question 8,option g
+Full Stack Software Engineer,Macedonia,Question 9,option d
+Full Stack Software Engineer,Macedonia,Question 10,option f
+Full Stack Software Engineer,Macedonia,Question 11,option e
+Full Stack Software Engineer,Macedonia,Question 12,option g
+Full Stack Software Engineer,Macedonia,Question 13,option f
+Full Stack Software Engineer,Macedonia,Question 14,option e
+Full Stack Software Engineer,Macedonia,Question 15,option b
+Full Stack Software Engineer,Macedonia,Question 16,option g
+Full Stack Software Engineer,Canada,Question 1,option c
+Full Stack Software Engineer,Canada,Question 2,option f
+Full Stack Software Engineer,Canada,Question 3,option e
+Full Stack Software Engineer,Canada,Question 4,option b
+Full Stack Software Engineer,Canada,Question 5,option f
+Full Stack Software Engineer,Canada,Question 6,option f
+Full Stack Software Engineer,Canada,Question 7,option d
+Full Stack Software Engineer,Canada,Question 8,option g
+Full Stack Software Engineer,Canada,Question 9,option d
+Full Stack Software Engineer,Canada,Question 10,option g
+Full Stack Software Engineer,Canada,Question 11,option e
+Full Stack Software Engineer,Canada,Question 12,option g
+Full Stack Software Engineer,Canada,Question 13,option f
+Full Stack Software Engineer,Canada,Question 14,option e
+Full Stack Software Engineer,Canada,Question 15,option b
+Full Stack Software Engineer,Canada,Question 16,option g
+Full Stack Software Engineer,Spain,Question 1,option c
+Full Stack Software Engineer,Spain,Question 2,option f
+Full Stack Software Engineer,Spain,Question 3,option e
+Full Stack Software Engineer,Spain,Question 4,option d
+Full Stack Software Engineer,Spain,Question 5,option f
+Full Stack Software Engineer,Spain,Question 6,option g
+Full Stack Software Engineer,Spain,Question 7,option d
+Full Stack Software Engineer,Spain,Question 8,option g
+Full Stack Software Engineer,Spain,Question 9,option c
+Full Stack Software Engineer,Spain,Question 10,option g
+Full Stack Software Engineer,Spain,Question 11,option e
+Full Stack Software Engineer,Spain,Question 12,option g
+Full Stack Software Engineer,Spain,Question 13,option f
+Full Stack Software Engineer,Spain,Question 14,option e
+Full Stack Software Engineer,Spain,Question 15,option b
+Full Stack Software Engineer,Spain,Question 16,option g
+Full Stack Software Engineer,Argentina,Question 1,option c
+Full Stack Software Engineer,Argentina,Question 2,option f
+Full Stack Software Engineer,Argentina,Question 3,option e
+Full Stack Software Engineer,Argentina,Question 4,option d
+Full Stack Software Engineer,Argentina,Question 5,option f
+Full Stack Software Engineer,Argentina,Question 6,option g
+Full Stack Software Engineer,Argentina,Question 7,option b
+Full Stack Software Engineer,Argentina,Question 8,option g
+Full Stack Software Engineer,Argentina,Question 9,option c
+Full Stack Software Engineer,Argentina,Question 10,option g
+Full Stack Software Engineer,Argentina,Question 11,option e
+Full Stack Software Engineer,Argentina,Question 12,option g
+Full Stack Software Engineer,Argentina,Question 13,option f
+Full Stack Software Engineer,Argentina,Question 14,option e
+Full Stack Software Engineer,Argentina,Question 15,option b
+Full Stack Software Engineer,Argentina,Question 16,option g
+Full Stack Software Engineer,Germany,Question 1,option c
+Full Stack Software Engineer,Germany,Question 2,option f
+Full Stack Software Engineer,Germany,Question 3,option e
+Full Stack Software Engineer,Germany,Question 4,option d
+Full Stack Software Engineer,Germany,Question 5,option f
+Full Stack Software Engineer,Germany,Question 6,option f
+Full Stack Software Engineer,Germany,Question 7,option d
+Full Stack Software Engineer,Germany,Question 8,option g
+Full Stack Software Engineer,Germany,Question 9,option c
+Full Stack Software Engineer,Germany,Question 10,option f
+Full Stack Software Engineer,Germany,Question 11,option e
+Full Stack Software Engineer,Germany,Question 12,option g
+Full Stack Software Engineer,Germany,Question 13,option f
+Full Stack Software Engineer,Germany,Question 14,option e
+Full Stack Software Engineer,Germany,Question 15,option b
+Full Stack Software Engineer,Germany,Question 16,option g
+Full Stack Software Engineer,Malta,Question 1,option c
+Full Stack Software Engineer,Malta,Question 2,option f
+Full Stack Software Engineer,Malta,Question 3,option e
+Full Stack Software Engineer,Malta,Question 4,option d
+Full Stack Software Engineer,Malta,Question 5,option f
+Full Stack Software Engineer,Malta,Question 6,option f
+Full Stack Software Engineer,Malta,Question 7,option d
+Full Stack Software Engineer,Malta,Question 8,option g
+Full Stack Software Engineer,Malta,Question 9,option e
+Full Stack Software Engineer,Malta,Question 10,option e
+Full Stack Software Engineer,Malta,Question 11,option f
+Full Stack Software Engineer,Malta,Question 12,option g
+Full Stack Software Engineer,Malta,Question 13,option f
+Full Stack Software Engineer,Malta,Question 14,option e
+Full Stack Software Engineer,Malta,Question 15,option d
+Full Stack Software Engineer,Malta,Question 16,option g
+Full Stack Software Engineer,United Kingdom,Question 1,option c
+Full Stack Software Engineer,United Kingdom,Question 2,option f
+Full Stack Software Engineer,United Kingdom,Question 3,option e
+Full Stack Software Engineer,United Kingdom,Question 4,option b
+Full Stack Software Engineer,United Kingdom,Question 5,option f
+Full Stack Software Engineer,United Kingdom,Question 6,option g
+Full Stack Software Engineer,United Kingdom,Question 7,option d
+Full Stack Software Engineer,United Kingdom,Question 8,option g
+Full Stack Software Engineer,United Kingdom,Question 9,option c
+Full Stack Software Engineer,United Kingdom,Question 10,option f
+Full Stack Software Engineer,United Kingdom,Question 11,option e
+Full Stack Software Engineer,United Kingdom,Question 12,option g
+Full Stack Software Engineer,United Kingdom,Question 13,option f
+Full Stack Software Engineer,United Kingdom,Question 14,option e
+Full Stack Software Engineer,United Kingdom,Question 15,option b
+Full Stack Software Engineer,United Kingdom,Question 16,option g
+System Administrator,Macedonia,Question 1,option c
+System Administrator,Macedonia,Question 2,option e
+System Administrator,Macedonia,Question 3,option f
+System Administrator,Macedonia,Question 4,option d
+System Administrator,Macedonia,Question 5,option g
+System Administrator,Macedonia,Question 6,option f
+System Administrator,Macedonia,Question 7,option e
+System Administrator,Macedonia,Question 8,option g
+System Administrator,Macedonia,Question 9,option f
+System Administrator,Macedonia,Question 10,option e
+System Administrator,Macedonia,Question 11,option g
+System Administrator,Macedonia,Question 12,option f
+System Administrator,Macedonia,Question 13,option g
+System Administrator,Macedonia,Question 14,option e
+System Administrator,Macedonia,Question 15,option f
+System Administrator,Macedonia,Question 16,option g
+System Administrator,Canada,Question 1,option c
+System Administrator,Canada,Question 2,option f
+System Administrator,Canada,Question 3,option e
+System Administrator,Canada,Question 4,option d
+System Administrator,Canada,Question 5,option g
+System Administrator,Canada,Question 6,option f
+System Administrator,Canada,Question 7,option e
+System Administrator,Canada,Question 8,option g
+System Administrator,Canada,Question 9,option c
+System Administrator,Canada,Question 10,option f
+System Administrator,Canada,Question 11,option e
+System Administrator,Canada,Question 12,option g
+System Administrator,Canada,Question 13,option f
+System Administrator,Canada,Question 14,option e
+System Administrator,Canada,Question 15,option b
+System Administrator,Canada,Question 16,option g
+System Administrator,Spain,Question 1,option c
+System Administrator,Spain,Question 2,option f
+System Administrator,Spain,Question 3,option e
+System Administrator,Spain,Question 4,option d
+System Administrator,Spain,Question 5,option g
+System Administrator,Spain,Question 6,option f
+System Administrator,Spain,Question 7,option e
+System Administrator,Spain,Question 8,option g
+System Administrator,Spain,Question 9,option e
+System Administrator,Spain,Question 10,option f
+System Administrator,Spain,Question 11,option f
+System Administrator,Spain,Question 12,option g
+System Administrator,Spain,Question 13,option f
+System Administrator,Spain,Question 14,option e
+System Administrator,Spain,Question 15,option d
+System Administrator,Spain,Question 16,option g
+System Administrator,Argentina,Question 1,option c
+System Administrator,Argentina,Question 2,option f
+System Administrator,Argentina,Question 3,option e
+System Administrator,Argentina,Question 4,option d
+System Administrator,Argentina,Question 5,option g
+System Administrator,Argentina,Question 6,option f
+System Administrator,Argentina,Question 7,option e
+System Administrator,Argentina,Question 8,option g
+System Administrator,Argentina,Question 9,option d
+System Administrator,Argentina,Question 10,option g
+System Administrator,Argentina,Question 11,option f
+System Administrator,Argentina,Question 12,option g
+System Administrator,Argentina,Question 13,option f
+System Administrator,Argentina,Question 14,option e
+System Administrator,Argentina,Question 15,option c
+System Administrator,Argentina,Question 16,option g
+System Administrator,Germany,Question 1,option c
+System Administrator,Germany,Question 2,option f
+System Administrator,Germany,Question 3,option e
+System Administrator,Germany,Question 4,option d
+System Administrator,Germany,Question 5,option g
+System Administrator,Germany,Question 6,option f
+System Administrator,Germany,Question 7,option e
+System Administrator,Germany,Question 8,option g
+System Administrator,Germany,Question 9,option c
+System Administrator,Germany,Question 10,option f
+System Administrator,Germany,Question 11,option e
+System Administrator,Germany,Question 12,option g
+System Administrator,Germany,Question 13,option f
+System Administrator,Germany,Question 14,option e
+System Administrator,Germany,Question 15,option b
+System Administrator,Germany,Question 16,option g
+System Administrator,Malta,Question 1,option c
+System Administrator,Malta,Question 2,option e
+System Administrator,Malta,Question 3,option e
+System Administrator,Malta,Question 4,option d
+System Administrator,Malta,Question 5,option f
+System Administrator,Malta,Question 6,option f
+System Administrator,Malta,Question 7,option e
+System Administrator,Malta,Question 8,option g
+System Administrator,Malta,Question 9,option f
+System Administrator,Malta,Question 10,option e
+System Administrator,Malta,Question 11,option f
+System Administrator,Malta,Question 12,option g
+System Administrator,Malta,Question 13,option f
+System Administrator,Malta,Question 14,option e
+System Administrator,Malta,Question 15,option f
+System Administrator,Malta,Question 16,option g
+System Administrator,United Kingdom,Question 1,option c
+System Administrator,United Kingdom,Question 2,option f
+System Administrator,United Kingdom,Question 3,option e
+System Administrator,United Kingdom,Question 4,option b
+System Administrator,United Kingdom,Question 5,option g
+System Administrator,United Kingdom,Question 6,option f
+System Administrator,United Kingdom,Question 7,option d
+System Administrator,United Kingdom,Question 8,option g
+System Administrator,United Kingdom,Question 9,option d
+System Administrator,United Kingdom,Question 10,option g
+System Administrator,United Kingdom,Question 11,option f
+System Administrator,United Kingdom,Question 12,option g
+System Administrator,United Kingdom,Question 13,option f
+System Administrator,United Kingdom,Question 14,option e
+System Administrator,United Kingdom,Question 15,option b
+System Administrator,United Kingdom,Question 16,option g
+Sales Representative,Macedonia,Question 1,option c
+Sales Representative,Macedonia,Question 2,option e
+Sales Representative,Macedonia,Question 3,option e
+Sales Representative,Macedonia,Question 4,option d
+Sales Representative,Macedonia,Question 5,option f
+Sales Representative,Macedonia,Question 6,option f
+Sales Representative,Macedonia,Question 7,option e
+Sales Representative,Macedonia,Question 8,option g
+Sales Representative,Macedonia,Question 9,option f
+Sales Representative,Macedonia,Question 10,option e
+Sales Representative,Macedonia,Question 11,option g
+Sales Representative,Macedonia,Question 12,option f
+Sales Representative,Macedonia,Question 13,option g
+Sales Representative,Macedonia,Question 14,option e
+Sales Representative,Macedonia,Question 15,option f
+Sales Representative,Macedonia,Question 16,option g
+Sales Representative,Canada,Question 1,option c
+Sales Representative,Canada,Question 2,option f
+Sales Representative,Canada,Question 3,option e
+Sales Representative,Canada,Question 4,option d
+Sales Representative,Canada,Question 5,option f
+Sales Representative,Canada,Question 6,option f
+Sales Representative,Canada,Question 7,option e
+Sales Representative,Canada,Question 8,option g
+Sales Representative,Canada,Question 9,option d
+Sales Representative,Canada,Question 10,option e
+Sales Representative,Canada,Question 11,option e
+Sales Representative,Canada,Question 12,option g
+Sales Representative,Canada,Question 13,option f
+Sales Representative,Canada,Question 14,option e
+Sales Representative,Canada,Question 15,option c
+Sales Representative,Canada,Question 16,option g
+Sales Representative,Spain,Question 1,option c
+Sales Representative,Spain,Question 2,option g
+Sales Representative,Spain,Question 3,option f
+Sales Representative,Spain,Question 4,option d
+Sales Representative,Spain,Question 5,option f
+Sales Representative,Spain,Question 6,option f
+Sales Representative,Spain,Question 7,option d
+Sales Representative,Spain,Question 8,option g
+Sales Representative,Spain,Question 9,option c
+Sales Representative,Spain,Question 10,option f
+Sales Representative,Spain,Question 11,option e
+Sales Representative,Spain,Question 12,option g
+Sales Representative,Spain,Question 13,option f
+Sales Representative,Spain,Question 14,option e
+Sales Representative,Spain,Question 15,option b
+Sales Representative,Spain,Question 16,option g
+Sales Representative,Argentina,Question 1,option c
+Sales Representative,Argentina,Question 2,option f
+Sales Representative,Argentina,Question 3,option e
+Sales Representative,Argentina,Question 4,option d
+Sales Representative,Argentina,Question 5,option f
+Sales Representative,Argentina,Question 6,option f
+Sales Representative,Argentina,Question 7,option e
+Sales Representative,Argentina,Question 8,option g
+Sales Representative,Argentina,Question 9,option e
+Sales Representative,Argentina,Question 10,option f
+Sales Representative,Argentina,Question 11,option g
+Sales Representative,Argentina,Question 12,option g
+Sales Representative,Argentina,Question 13,option f
+Sales Representative,Argentina,Question 14,option e
+Sales Representative,Argentina,Question 15,option f
+Sales Representative,Argentina,Question 16,option g
+Sales Representative,Germany,Question 1,option c
+Sales Representative,Germany,Question 2,option f
+Sales Representative,Germany,Question 3,option e
+Sales Representative,Germany,Question 4,option b
+Sales Representative,Germany,Question 5,option g
+Sales Representative,Germany,Question 6,option f
+Sales Representative,Germany,Question 7,option d
+Sales Representative,Germany,Question 8,option g
+Sales Representative,Germany,Question 9,option e
+Sales Representative,Germany,Question 10,option f
+Sales Representative,Germany,Question 11,option g
+Sales Representative,Germany,Question 12,option g
+Sales Representative,Germany,Question 13,option f
+Sales Representative,Germany,Question 14,option e
+Sales Representative,Germany,Question 15,option d
+Sales Representative,Germany,Question 16,option g
+Sales Representative,Malta,Question 1,option c
+Sales Representative,Malta,Question 2,option f
+Sales Representative,Malta,Question 3,option e
+Sales Representative,Malta,Question 4,option d
+Sales Representative,Malta,Question 5,option g
+Sales Representative,Malta,Question 6,option f
+Sales Representative,Malta,Question 7,option e
+Sales Representative,Malta,Question 8,option g
+Sales Representative,Malta,Question 9,option f
+Sales Representative,Malta,Question 10,option e
+Sales Representative,Malta,Question 11,option g
+Sales Representative,Malta,Question 12,option f
+Sales Representative,Malta,Question 13,option g
+Sales Representative,Malta,Question 14,option e
+Sales Representative,Malta,Question 15,option f
+Sales Representative,Malta,Question 16,option g
+Sales Representative,United Kingdom,Question 1,option c
+Sales Representative,United Kingdom,Question 2,option f
+Sales Representative,United Kingdom,Question 3,option e
+Sales Representative,United Kingdom,Question 4,option d
+Sales Representative,United Kingdom,Question 5,option f
+Sales Representative,United Kingdom,Question 6,option f
+Sales Representative,United Kingdom,Question 7,option e
+Sales Representative,United Kingdom,Question 8,option g
+Sales Representative,United Kingdom,Question 9,option e
+Sales Representative,United Kingdom,Question 10,option f
+Sales Representative,United Kingdom,Question 11,option e
+Sales Representative,United Kingdom,Question 12,option g
+Sales Representative,United Kingdom,Question 13,option f
+Sales Representative,United Kingdom,Question 14,option e
+Sales Representative,United Kingdom,Question 15,option d
+Sales Representative,United Kingdom,Question 16,option g
+Human Resources,Macedonia,Question 1,option c
+Human Resources,Macedonia,Question 2,option e
+Human Resources,Macedonia,Question 3,option e
+Human Resources,Macedonia,Question 4,option d
+Human Resources,Macedonia,Question 5,option f
+Human Resources,Macedonia,Question 6,option f
+Human Resources,Macedonia,Question 7,option e
+Human Resources,Macedonia,Question 8,option g
+Human Resources,Macedonia,Question 9,option f
+Human Resources,Macedonia,Question 10,option e
+Human Resources,Macedonia,Question 11,option g
+Human Resources,Macedonia,Question 12,option g
+Human Resources,Macedonia,Question 13,option f
+Human Resources,Macedonia,Question 14,option e
+Human Resources,Macedonia,Question 15,option f
+Human Resources,Macedonia,Question 16,option g
+Human Resources,Canada,Question 1,option c
+Human Resources,Canada,Question 2,option f
+Human Resources,Canada,Question 3,option e
+Human Resources,Canada,Question 4,option d
+Human Resources,Canada,Question 5,option g
+Human Resources,Canada,Question 6,option f
+Human Resources,Canada,Question 7,option e
+Human Resources,Canada,Question 8,option g
+Human Resources,Canada,Question 9,option c
+Human Resources,Canada,Question 10,option f
+Human Resources,Canada,Question 11,option e
+Human Resources,Canada,Question 12,option g
+Human Resources,Canada,Question 13,option f
+Human Resources,Canada,Question 14,option e
+Human Resources,Canada,Question 15,option b
+Human Resources,Canada,Question 16,option g
+Human Resources,Spain,Question 1,option c
+Human Resources,Spain,Question 2,option f
+Human Resources,Spain,Question 3,option e
+Human Resources,Spain,Question 4,option d
+Human Resources,Spain,Question 5,option f
+Human Resources,Spain,Question 6,option f
+Human Resources,Spain,Question 7,option e
+Human Resources,Spain,Question 8,option g
+Human Resources,Spain,Question 9,option c
+Human Resources,Spain,Question 10,option f
+Human Resources,Spain,Question 11,option e
+Human Resources,Spain,Question 12,option g
+Human Resources,Spain,Question 13,option f
+Human Resources,Spain,Question 14,option e
+Human Resources,Spain,Question 15,option c
+Human Resources,Spain,Question 16,option g
+Human Resources,Argentina,Question 1,option c
+Human Resources,Argentina,Question 2,option f
+Human Resources,Argentina,Question 3,option e
+Human Resources,Argentina,Question 4,option d
+Human Resources,Argentina,Question 5,option g
+Human Resources,Argentina,Question 6,option f
+Human Resources,Argentina,Question 7,option e
+Human Resources,Argentina,Question 8,option g
+Human Resources,Argentina,Question 9,option f
+Human Resources,Argentina,Question 10,option e
+Human Resources,Argentina,Question 11,option g
+Human Resources,Argentina,Question 12,option f
+Human Resources,Argentina,Question 13,option g
+Human Resources,Argentina,Question 14,option e
+Human Resources,Argentina,Question 15,option f
+Human Resources,Argentina,Question 16,option g
+Human Resources,Germany,Question 1,option c
+Human Resources,Germany,Question 2,option f
+Human Resources,Germany,Question 3,option e
+Human Resources,Germany,Question 4,option d
+Human Resources,Germany,Question 5,option g
+Human Resources,Germany,Question 6,option f
+Human Resources,Germany,Question 7,option e
+Human Resources,Germany,Question 8,option g
+Human Resources,Germany,Question 9,option c
+Human Resources,Germany,Question 10,option g
+Human Resources,Germany,Question 11,option f
+Human Resources,Germany,Question 12,option g
+Human Resources,Germany,Question 13,option f
+Human Resources,Germany,Question 14,option e
+Human Resources,Germany,Question 15,option b
+Human Resources,Germany,Question 16,option g
+Human Resources,Malta,Question 1,option c
+Human Resources,Malta,Question 2,option f
+Human Resources,Malta,Question 3,option e
+Human Resources,Malta,Question 4,option d
+Human Resources,Malta,Question 5,option g
+Human Resources,Malta,Question 6,option f
+Human Resources,Malta,Question 7,option e
+Human Resources,Malta,Question 8,option g
+Human Resources,Malta,Question 9,option f
+Human Resources,Malta,Question 10,option e
+Human Resources,Malta,Question 11,option g
+Human Resources,Malta,Question 12,option f
+Human Resources,Malta,Question 13,option g
+Human Resources,Malta,Question 14,option e
+Human Resources,Malta,Question 15,option f
+Human Resources,Malta,Question 16,option g
+Human Resources,United Kingdom,Question 1,option c
+Human Resources,United Kingdom,Question 2,option f
+Human Resources,United Kingdom,Question 3,option e
+Human Resources,United Kingdom,Question 4,option d
+Human Resources,United Kingdom,Question 5,option f
+Human Resources,United Kingdom,Question 6,option f
+Human Resources,United Kingdom,Question 7,option e
+Human Resources,United Kingdom,Question 8,option g
+Human Resources,United Kingdom,Question 9,option d
+Human Resources,United Kingdom,Question 10,option f
+Human Resources,United Kingdom,Question 11,option e
+Human Resources,United Kingdom,Question 12,option g
+Human Resources,United Kingdom,Question 13,option f
+Human Resources,United Kingdom,Question 14,option e
+Human Resources,United Kingdom,Question 15,option b
+Human Resources,United Kingdom,Question 16,option g
+Business Analyst,Macedonia,Question 1,option c
+Business Analyst,Macedonia,Question 2,option f
+Business Analyst,Macedonia,Question 3,option e
+Business Analyst,Macedonia,Question 4,option d
+Business Analyst,Macedonia,Question 5,option g
+Business Analyst,Macedonia,Question 6,option f
+Business Analyst,Macedonia,Question 7,option e
+Business Analyst,Macedonia,Question 8,option g
+Business Analyst,Macedonia,Question 9,option f
+Business Analyst,Macedonia,Question 10,option e
+Business Analyst,Macedonia,Question 11,option g
+Business Analyst,Macedonia,Question 12,option f
+Business Analyst,Macedonia,Question 13,option g
+Business Analyst,Macedonia,Question 14,option e
+Business Analyst,Macedonia,Question 15,option f
+Business Analyst,Macedonia,Question 16,option g
+Business Analyst,Canada,Question 1,option c
+Business Analyst,Canada,Question 2,option f
+Business Analyst,Canada,Question 3,option e
+Business Analyst,Canada,Question 4,option d
+Business Analyst,Canada,Question 5,option f
+Business Analyst,Canada,Question 6,option f
+Business Analyst,Canada,Question 7,option e
+Business Analyst,Canada,Question 8,option g
+Business Analyst,Canada,Question 9,option c
+Business Analyst,Canada,Question 10,option e
+Business Analyst,Canada,Question 11,option e
+Business Analyst,Canada,Question 12,option g
+Business Analyst,Canada,Question 13,option f
+Business Analyst,Canada,Question 14,option e
+Business Analyst,Canada,Question 15,option c
+Business Analyst,Canada,Question 16,option g
+Business Analyst,Spain,Question 1,option c
+Business Analyst,Spain,Question 2,option f
+Business Analyst,Spain,Question 3,option e
+Business Analyst,Spain,Question 4,option d
+Business Analyst,Spain,Question 5,option f
+Business Analyst,Spain,Question 6,option f
+Business Analyst,Spain,Question 7,option e
+Business Analyst,Spain,Question 8,option g
+Business Analyst,Spain,Question 9,option c
+Business Analyst,Spain,Question 10,option e
+Business Analyst,Spain,Question 11,option e
+Business Analyst,Spain,Question 12,option g
+Business Analyst,Spain,Question 13,option f
+Business Analyst,Spain,Question 14,option e
+Business Analyst,Spain,Question 15,option c
+Business Analyst,Spain,Question 16,option g
+Business Analyst,Argentina,Question 1,option c
+Business Analyst,Argentina,Question 2,option f
+Business Analyst,Argentina,Question 3,option e
+Business Analyst,Argentina,Question 4,option d
+Business Analyst,Argentina,Question 5,option g
+Business Analyst,Argentina,Question 6,option f
+Business Analyst,Argentina,Question 7,option e
+Business Analyst,Argentina,Question 8,option g
+Business Analyst,Argentina,Question 9,option c
+Business Analyst,Argentina,Question 10,option f
+Business Analyst,Argentina,Question 11,option e
+Business Analyst,Argentina,Question 12,option g
+Business Analyst,Argentina,Question 13,option f
+Business Analyst,Argentina,Question 14,option e
+Business Analyst,Argentina,Question 15,option b
+Business Analyst,Argentina,Question 16,option g
+Business Analyst,Germany,Question 1,option c
+Business Analyst,Germany,Question 2,option e
+Business Analyst,Germany,Question 3,option f
+Business Analyst,Germany,Question 4,option c
+Business Analyst,Germany,Question 5,option f
+Business Analyst,Germany,Question 6,option f
+Business Analyst,Germany,Question 7,option e
+Business Analyst,Germany,Question 8,option g
+Business Analyst,Germany,Question 9,option e
+Business Analyst,Germany,Question 10,option f
+Business Analyst,Germany,Question 11,option f
+Business Analyst,Germany,Question 12,option g
+Business Analyst,Germany,Question 13,option f
+Business Analyst,Germany,Question 14,option e
+Business Analyst,Germany,Question 15,option d
+Business Analyst,Germany,Question 16,option g
+Business Analyst,Malta,Question 1,option c
+Business Analyst,Malta,Question 2,option f
+Business Analyst,Malta,Question 3,option e
+Business Analyst,Malta,Question 4,option d
+Business Analyst,Malta,Question 5,option g
+Business Analyst,Malta,Question 6,option f
+Business Analyst,Malta,Question 7,option e
+Business Analyst,Malta,Question 8,option g
+Business Analyst,Malta,Question 9,option f
+Business Analyst,Malta,Question 10,option e
+Business Analyst,Malta,Question 11,option g
+Business Analyst,Malta,Question 12,option f
+Business Analyst,Malta,Question 13,option g
+Business Analyst,Malta,Question 14,option e
+Business Analyst,Malta,Question 15,option f
+Business Analyst,Malta,Question 16,option g
+Business Analyst,United Kingdom,Question 1,option c
+Business Analyst,United Kingdom,Question 2,option f
+Business Analyst,United Kingdom,Question 3,option e
+Business Analyst,United Kingdom,Question 4,option d
+Business Analyst,United Kingdom,Question 5,option f
+Business Analyst,United Kingdom,Question 6,option f
+Business Analyst,United Kingdom,Question 7,option e
+Business Analyst,United Kingdom,Question 8,option g
+Business Analyst,United Kingdom,Question 9,option c
+Business Analyst,United Kingdom,Question 10,option e
+Business Analyst,United Kingdom,Question 11,option e
+Business Analyst,United Kingdom,Question 12,option g
+Business Analyst,United Kingdom,Question 13,option f
+Business Analyst,United Kingdom,Question 14,option e
+Business Analyst,United Kingdom,Question 15,option b
+Business Analyst,United Kingdom,Question 16,option g
